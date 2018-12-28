@@ -1,0 +1,61 @@
+.body{
+
+   width: 30%
+
+}
+
+.resDiv {
+
+   background-color: #D3D3D3;
+
+   border: solid;
+
+   height: 48px;
+
+   font-size: 20px
+
+}
+
+
+
+.binaryNumbers{
+
+   background-color: lightgreen;
+
+   color: brown;
+
+}
+
+
+
+.buttonCtrl{
+
+   background-color: darkgreen;
+
+   color: white;
+
+}
+
+
+
+.buttonCal {
+
+   background-color: black;
+
+   color : red;
+
+}
+
+.buttonClass {
+
+   width: 25%;
+
+   height: 36px;
+
+   font-size: 18px;
+
+   margin: 0px;
+
+   float: left
+
+}
